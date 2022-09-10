@@ -1,0 +1,56 @@
+.has-error {
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    text-align: center;
+    color: red;
+}
+
+.stylecont {
+    margin: auto;
+}
+
+.faq-delete {
+    background-color: red;
+}
+
+.faq-card-container {
+    background-color: whitesmoke;
+    border-style: solid;
+    border-width: 2.5px;
+    border-color: black;
+    border-top: black;
+    border-left: black;
+    border-right: black;
+}
+
+.faq-card {
+    display: inline-block;
+}
+
+.faq-disp {
+    margin: auto;
+}
+
+.faq-header-title {
+    font-family: 'Fredoka One', cursive;
+    font-size: 120px;
+    color: black;
+    -webkit-text-stroke: 8px #fff;
+    text-shadow: 0 6px 6px #282828;
+}
+
+.faq-btn {
+    font-size: 20px;
+    font-weight: bolder;
+    border-bottom: black 1px solid;
+}
+
+.faq-btn:hover {
+    background-color: #282828;
+    color: #fff;
+}
+
+.faq-form-title {
+    font-family: 'Baloo 2', cursive;
+}
