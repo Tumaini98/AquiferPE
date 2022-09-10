@@ -1,1 +1,1 @@
-# AquiferPE
+An HR platform connecting freelance Civil Engineers with Contracting Firms to enhance infrastructure and capital projects. AquiferPE is an mvp and due to the proprietary nature of the code, I can only provide code snippets of my code. This repository contains the react code of the FAQ's page.
